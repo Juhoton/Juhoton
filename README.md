@@ -3,7 +3,7 @@
 I am a fifth-year university student finishing up bachelor’s degree and studying master’s at the same time.
 
 
-🔭 I’m currently working on a unity game project and 
+🔭 I’m currently working on a private unity game project and 
 🌱 learning fullstack development
 
 <!--
