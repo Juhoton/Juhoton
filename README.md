@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a fifth-year university student finishing up bachelor’s degree and studying master’s at the same time. Currently I’m looking for a summer job in my field to develop my skills and gain experience.
+I am a fifth-year university student finishing up bachelor’s degree and studying master’s at the same time.
 
 
 🔭 I’m currently working on a unity game project and 
