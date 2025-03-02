@@ -6,6 +6,12 @@ I am a fifth-year university student finishing up bachelor’s degree and studyi
 🔭 I’m currently working on a private unity game project and 
 🌱 learning fullstack development
 
+Examples of code I've written can be found in Unity-Soundplayer-Scripts and Yatzy
+
+
+
+
+
 <!--
 **Juhoton/Juhoton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
