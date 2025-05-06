@@ -6,7 +6,7 @@ I am a fifth-year university student finishing up bachelor’s degree and studyi
 
 🔭 Examples of code I've written can be found in pinned repositories "Yatzy".
 
-I have also done some work for a private game project with c#.
+I have also done some paid work for a private game project with c#.
 
 
 
