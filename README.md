@@ -2,7 +2,7 @@
 
 I am a fifth-year university student finishing up bachelor’s degree and studying master’s at the same time.
 
-🌱 I’m currently learning fullstack development
+🌱 I’m currently learning fullstack development with Web Software Development Aalto mooc (https://fitech101.aalto.fi/en/courses/web-software-development)
 
 🔭 Examples of code I've written can be found in pinned repositories "Yatzy".
 
