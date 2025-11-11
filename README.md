@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I am a fifth-year university student finishing up bachelor’s degree and studying master’s at the same time.
+I'm a Master's degree Software Engineering student, in which I'm planning to graduate in the spring 2026.
 
-🌱 I’m currently learning fullstack development with Web Software Development Aalto mooc (https://fitech101.aalto.fi/en/courses/web-software-development)
+💬 Looking for Master's Thesis work opportunities and a full-time job after graduating.
 
-🔭 Examples of code I've written can be found in pinned repositories "Yatzy".
+🔭 Examples of code I've written can be found in pinned repositories.
 
 I have also done some paid work for a private game project with c#.
 
